@@ -1,0 +1,32 @@
+{
+  "name": "strapi-provider-upload-backblaze-b2",
+  "version": "0.0.1",
+  "description": "Backblaze B2 upload provider for Strapi.",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Pedrock/strapi-provider-upload-backblaze-b2.git"
+  },
+  "keywords": [
+    "strapi",
+    "upload",
+    "provider",
+    "backblaze",
+    "b2"
+  ],
+  "author": "Pedro Câmara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pedrock/strapi-provider-upload-backblaze-b2/issues"
+  },
+  "homepage": "https://github.com/Pedrock/strapi-provider-upload-backblaze-b2",
+  "dependencies": {
+    "backblaze-b2": "1.3.1"
+  }
+}
