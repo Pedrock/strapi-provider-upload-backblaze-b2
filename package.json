@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-upload-backblaze-b2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Backblaze B2 upload provider for Strapi.",
   "main": "./lib",
   "scripts": {
