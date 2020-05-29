@@ -18,9 +18,9 @@ Add `./extensions/upload/config/settings.json` file with config:
 {
   "provider": "backblaze-b2",
   "providerOptions": {
-    "accountId": "Account id",
-    "applicationKey": "Application Key",
-    "bucket": "Bucket name"
+    "accountId": "keyID",
+    "applicationKey": "applicationKey",
+    "bucket": "bucketName"
   }
 }
 ```
